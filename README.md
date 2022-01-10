@@ -11,5 +11,6 @@ En este curso vemos de todo:
 * El verdaderi amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples 
+* Creado por Rafael
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo
